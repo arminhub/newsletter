@@ -18,9 +18,8 @@ Im Rahmen meiner Ausbildung zum geprüften Software-Entwickler am WIFI Wien habe
 
 ## Technologien
 
-**Client:** HTML, CSS, JavaScript
-
-**Server:** Node.js
+- **Client:** HTML, CSS, JavaScript
+- **Server:** Node.js
 
 ## Ausgabe
 ![Ausgabe](documentation/assets/ausgabe.png)
