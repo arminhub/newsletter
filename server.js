@@ -25,7 +25,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 
 // Google API vars. & AccessToken Generator
-const CLIENT_ID = process.env.CLIENT_ID;
+const CLIENT_ID = process.env.CLIENT_ID; // env var
 const CLIENT_SECRET = process.env.CLIENT_SECRET; // env var
 const REDIRECT_URL = 'https://developers.google.com/oauthplayground';
 const REFRESH_TOKEN = process.env.REFRESH_TOKEN; // env var
