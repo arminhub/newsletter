@@ -10,15 +10,16 @@ Im Rahmen meiner Ausbildung zum geprüften Software-Entwickler am WIFI Wien habe
 
 ## Funktionen
 
-- **E-Mail-Adressüberprüfung**
-- **Datenübermittlung per POST-Request**
-- **Speicherung in CSV und JSON Format**
-- **Anmeldebestätigung per E-Mail**
+- E-Mail-Adressüberprüfung
+- Datenübermittlung per POST-Request
+- Speicherung in CSV und JSON Format
+- Anmeldebestätigung per E-Mail
 
 
 ## Technologien
 
 **Client:** HTML, CSS, JavaScript
+
 **Server:** Node.js
 
 ## Ausgabe
