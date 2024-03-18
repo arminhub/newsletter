@@ -1,0 +1,102 @@
+* {
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: #bbb;
+
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.newsletter {
+  background-color: #fff;
+  padding: 30px 40px;
+  color: rgb(50, 50, 50);
+}
+
+.main {
+  text-align: center;
+  background-color: #fff;
+  padding: 60px 70px;
+  color: #323232;
+}
+
+label {
+  display: block;
+  margin-bottom: 7.5px;
+}
+
+.input {
+  margin: 0;
+  border: 1px solid #bbb;
+  border-right: none;
+  border-radius: 0;
+  width: 75%;
+  padding: 10px;
+  float: left;
+  font-size: 16px;
+}
+
+.btn {
+  padding: 10px;
+  width: 25%;
+  background: #0047AB;
+  border: 1px solid #0047AB;
+  color: #fff;
+  float: left;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 0;
+}
+
+.disabled {
+  padding: 10px;
+  width: 25%;
+  background: rgba(0, 71, 171, 0.5);
+  border: 1px solid rgba(0, 71, 171, 0.5);
+  color: #fff;
+  float: left;
+  text-align: center;
+  font-size: 16px;
+  border-radius: 0;
+}
+
+.btn:hover {
+  background-color: #1F51FF;
+}
+
+.checkbox {
+  color: #757575;
+}
+
+.checkbox input {
+  margin-top: 30px;
+  margin-right: 7.5px;
+}
+
+h1 {
+  margin-bottom: 30px;
+}
+
+p {
+  margin-bottom: 30px;
+}
+
+p.confirm {
+  color: #757575;
+  margin-bottom: 0;
+}
+
+h1.confirm {
+  margin-bottom: 15px;
+}
