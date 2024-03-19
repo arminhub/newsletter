@@ -44,7 +44,7 @@ const sendEmail = async function (email) {
             service: 'gmail',
             auth: {
                 type: 'OAuth2',
-                user: 'pixogram.eu@gmail.com',
+                user: USER_NAME,
                 clientId: CLIENT_ID,
                 clientSecret: CLIENT_SECRET,
                 refreshToken: REFRESH_TOKEN,
