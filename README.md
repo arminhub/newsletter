@@ -1,4 +1,4 @@
-# Newsletter Anmeldung (Demo)
+# Newsletter Anmeldung
 
 ![Screenshot](documentation/assets/screenshot.png)
 
